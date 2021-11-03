@@ -1,0 +1,102 @@
+body::-webkit-scrollbar { 
+	border-radius: 10px
+}
+body::-webkit-scrollbar-track {
+  background: #2b2b2b;        
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #424242;    
+  border-radius: 10px;      
+}
+html{
+	overflow-x:hidden;
+}
+.text{
+	padding: 2%;
+	font-family: sans-serif;
+	color: #c3c46e;
+}
+.text1{
+	color: #ffffff;
+	font-size: 60px;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-bottom: 40px;
+} 
+.text2{
+	text-align: left;
+	width: 1200px;
+	position: relative;
+	margin:0 auto;
+	border-radius: 20px;
+	background-color: 404040;
+	color: #ffffff
+}
+.text3{
+	text-align: center; 
+	font-weight: bold;
+	font-size: 30px;
+	margin: 3%;
+}
+.text4{
+	text-align: center; 
+	font-weight: bold;
+	font-size: 30px;
+	margin: 3%;
+}
+.text5{
+	text-align: center; 
+	font-weight: bold;
+	font-size: 30px;
+	margin: 3%;
+}
+.text6{
+	text-align: left; 
+	font-weight: bold;
+	font-size: 20px;
+	margin: 3%;
+}
+.text7{
+	text-align: center; 
+	font-weight: bold;
+	font-size: 30px;
+	margin: 3%;
+}
+.text8{
+	text-align: center; 
+	font-weight: bold;
+	font-size: 30px;
+	margin: 3%;
+}
+.text9{
+	text-align: center; 
+	font-weight: bold;
+	font-size: 30px;
+	margin: 3%;
+}
+.text10{
+	text-align: center; 
+	font-weight: bold;
+	font-size: 30px;
+	margin: 3%;
+}
+.text11{
+	text-align: center; 
+	font-weight: bold;
+	font-size: 30px;
+	margin: 3%;
+}
+.text12{
+	text-align: left; 
+	font-weight: bold;
+	font-size: 20px;
+	margin: 3%;
+}
+.text13{
+	text-align: center; 
+	font-weight: bold;
+	font-size: 30px;
+	margin: 3%;
+}
